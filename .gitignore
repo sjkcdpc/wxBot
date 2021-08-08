@@ -70,3 +70,4 @@ qr.png
 *.ini
 *.un~
 /temp
+venv/
